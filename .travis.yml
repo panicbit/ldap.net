@@ -4,7 +4,7 @@ solution: ldap.net.sln
 matrix:
   include:
     - name: "Dotnet"
-      dotnet: 2.1.500
+      dotnet: 2.2.101
       mono: none
       script:
         - dotnet restore
