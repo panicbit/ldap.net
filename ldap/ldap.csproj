@@ -14,6 +14,10 @@
     <WarningsAsErrors />
   </PropertyGroup>
 
+  <PropertyGroup>
+    <RunningOnUnix>true</RunningOnUnix>
+  </PropertyGroup>
+
   <ItemGroup>
     <ProjectReference Include="..\asn.1\asn.1.csproj" />
   </ItemGroup>
