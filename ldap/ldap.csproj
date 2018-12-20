@@ -15,7 +15,7 @@
   </PropertyGroup>
 
   <PropertyGroup>
-    <RunningOnUnix>true</RunningOnUnix>
+    <RunningOnCore>true</RunningOnCore>
   </PropertyGroup>
 
   <ItemGroup>
